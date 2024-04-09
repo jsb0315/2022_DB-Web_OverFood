@@ -6,9 +6,6 @@
 ![image](https://github.com/jsb0315/OverFood/assets/97612957/1e7657ed-cf67-4d9f-b8fd-44902e567292)
 ## Team
 ![image](https://github.com/jsb0315/OverFood/assets/97612957/5999d855-1cb6-4297-82c6-c718528d3029)
-- 식품의약품안전처_통합식품영양성분정보(음식)_20220808.csv
-- 전국통합식품영양성분정보(원재료성식품)표준데이터.csv
-- 군산 음식점 1000개 크롤링 데이터, 네이버 지도
 
 
 ## OutLine
@@ -16,9 +13,10 @@
 ## Tree Structure
 ![image](https://github.com/jsb0315/OverFood/assets/97612957/48a34edc-8c4b-4923-9b7a-53d4584ce577)
 ## Data Collection
-
-![image](https://github.com/jsb0315/OverFood/assets/97612957/ed1ed5fe-6187-46c2-81f4-50f3f0d84fe1)
-
+![그림2](https://github.com/jsb0315/OverFood/assets/97612957/1267a08d-7c99-4c2c-8687-81d38baf0f36)
+- 식품의약품안전처_통합식품영양성분정보(음식)_20220808.csv
+- 전국통합식품영양성분정보(원재료성식품)표준데이터.csv
+- 군산 음식점 1000개 크롤링 데이터, 네이버 지도
 ## Data Preprocessing
 ![image](https://github.com/jsb0315/OverFood/assets/97612957/ee7cbb79-a924-48b1-824c-abae05f0c013)
 ## ERD
