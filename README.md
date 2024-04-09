@@ -4,6 +4,13 @@
 <img src="https://github.com/jsb0315/OverFood/assets/97612957/5257dd9a-0c07-4cfc-b403-faf07ae2e753" width="70%"/>
 <img src="https://github.com/jsb0315/OverFood/assets/97612957/cbab1332-2510-44fb-a822-75aa73652e39" width="70%"/>
 <img src="https://github.com/jsb0315/OverFood/assets/97612957/1e7657ed-cf67-4d9f-b8fd-44902e567292" width="70%"/> <br/>
+프로젝트 구성
+프로젝트 프로그램 설치방법
+프로젝트 프로그램 사용법
+저작권 및 사용권 정보
+프로그래머 정보
+버그 및 디버그
+참고 및 출처
 
 ## Team
 <img src="https://github.com/jsb0315/OverFood/assets/97612957/5999d855-1cb6-4297-82c6-c718528d3029" width="70%"/><br/>
