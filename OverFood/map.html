@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <div class="container">
+            <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+                <a href="./main.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+                    <svg class="bi me-2" width="40" height="32">
+                        <use xlink:href="#bootstrap"></use>
+                    </svg>
+                    <span class="fs-4"> OverFood </span>
+                </a>     
+                <ul class="nav nav-pills">
+                     <li class="nav-item"><a href="./main.html" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="./food.php" class="nav-link">Food</a></li>
+                    <li class="nav-item"><a href="./map.html" class="nav-link active" aria-current="page">Map</a></li>
+                    <li class="nav-item"><a href="./sign.php" class="nav-link">Sign in</a></li>
+                </ul>
+            </header>
+        </div>
+
+        <!--
+        <div class="container">
+            <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+                <input type="search" class="form-control" placeholder="Search..." aria-label="Search" autocomplete="on">
+                <container class="rel_search">
+                    
+                </container>
+            </form>
+        </div>
+            
+        -->
+        <div id="map" style="width:500px;height:400px;"></div>
+
+        <div class="container">
+            <footer class="py-3 my-4" padding="0">
+              <ul class="nav justify-content-center border-bottom pb-3 mb-3"></ul>
+              <p class="text-center text-muted">© 2022 Company, Inc</p>
+            </footer>
+          < /div>
+    </body>
+
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=6e54fa3385667305ca90e7d092183d5b"></script>
+    <script>
+		var container = document.getElementById('map');
+		var options = {
+			center: new kakao.maps.LatLng(33.450701, 126.570667),
+			level: 3
+		};
+
+		var map = new kakao.maps.Map(container, options);
+	</script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+</html>
