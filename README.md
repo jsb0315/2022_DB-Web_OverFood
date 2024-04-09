@@ -1,9 +1,6 @@
 # 🍖2022 DB&Web Programming Project - OverFood🍖
 ## ▶PreView
-<img src="https://github.com/jsb0315/OverFood/assets/97612957/f52435d0-50df-4ffa-85f8-7c4370e4a3ff" width="70%"/>
-<img src="https://github.com/jsb0315/OverFood/assets/97612957/5257dd9a-0c07-4cfc-b403-faf07ae2e753" width="70%"/>
-<img src="https://github.com/jsb0315/OverFood/assets/97612957/cbab1332-2510-44fb-a822-75aa73652e39" width="70%"/>
-<img src="https://github.com/jsb0315/OverFood/assets/97612957/1e7657ed-cf67-4d9f-b8fd-44902e567292" width="70%"/> <br/>
+<img src="https://github.com/jsb0315/OverFood/assets/97612957/f52435d0-50df-4ffa-85f8-7c4370e4a3ff" width="70%"/> <br/>
 프로젝트 구성
 프로젝트 프로그램 설치방법
 프로젝트 프로그램 사용법
